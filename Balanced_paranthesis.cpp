@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 #define MAX 100
+//cool
 class Stack
 {
 	int top;
